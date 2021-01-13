@@ -1,7 +1,7 @@
 # Project-2
 GitHub repo for Project - 2
 
-# Cut through the clutter - data-driven estimation of market value of soccer players
+# Cut through the clutter - data-driven estimation of market value of Soccer players
 
 #### Description
 Soccer is a popular sport and a big business.Important decisions around player valuation are of major concern. Market values have traditionally been estimated by football experts and the process behind crowd judgments is not transparent and estimates are not replicable. Data analytics may thus provide a sound model to approach crowd-based estimations of market value. 
