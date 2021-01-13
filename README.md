@@ -1,5 +1,5 @@
-# Project_2
-GitHub repo for Projec _2
+# Project-2
+GitHub repo for Project - 2
 
 # Cut through the clutter - data-driven estimation of market value of soccer players
 
@@ -26,17 +26,17 @@ Soccer is a popular sport and a big business.Important decisions around player v
 
 
 
-## Potential Clients
+#### Potential Clients
 
- * football managers and scouts 
+ * Football managers and Scouts 
 
-## Questions we might answer for clients using data
+#### Questions we might answer for clients using data
 
  * What are the key parameters which define market value of a player?
  * What parameters define player performance  ?
  * How do we factor in player popularity to the calculation?
 
-## Possible Inputs
+#### Possible Inputs
 
 To be Updated
  
