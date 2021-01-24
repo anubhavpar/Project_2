@@ -37,7 +37,6 @@ As part of the project, I will try to predict the 2017 - Market Valuations based
 
 #### File Contents :
 * fbref.ipynb - Please refer to this file for the consolidated code for Project_2
-* Valuation.ipynb - Supporting code(which I eventually moved to fbref.ipynb)
 * Project_Anubhav.pdf - Presentation slides
 
 #### Potential Clients
