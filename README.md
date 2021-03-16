@@ -54,9 +54,6 @@ Linear Regressions Model Predictions(for 10 Players)
 * Sklearn - LinearRegression, Ridge, Lasso, CV, KFlold, StandardScaler,Polynomial Feature
 
 
-
-
-
 #### File Contents :
 * fbref.ipynb - Please refer to this file for the consolidated code for Project_2
 * Project_Anubhav.pdf - Presentation slides
@@ -65,12 +62,6 @@ Linear Regressions Model Predictions(for 10 Players)
 
  * Football managers and Scouts 
 
-#### Questions we might answer for clients using data
-
- * What are the key parameters which define market value of a player?
- * What parameters define player performance  ?
- * How do we factor in player popularity to the calculation?
- * How close were my predictions ?
 
  
 
